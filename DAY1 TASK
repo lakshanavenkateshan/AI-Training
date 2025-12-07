@@ -1,0 +1,22 @@
+BIT CHATBOT
+BITRA – Rule-Based AI Assistant for the BIT Website
+
+BITRA is an AI-based virtual assistant developed for the Bannari Amman Institute of Technology to help visitors on the official website.
+It mainly handles frequently asked queries related to admissions, courses offered, fee structure, hostel details, and contact information.
+The chatbot uses simple Natural Language Processing (NLP) techniques so that it can understand basic English questions typed by users.
+
+BITRA functions as a retrieval-style chatbot, meaning it picks the best response from a fixed set of answers stored in its database.
+The system identifies the user’s intent — for example, whether they are asking about admissions, departments, or facilities — and then selects the correct reply.
+
+A structured knowledge base containing college information such as academic programs, departments, campus services, and facilities supports the chatbot.
+Its workflow is straightforward: User query → NLP processing → Intent detection → Matching answer → Response displayed.
+
+BITRA helps users quickly find information without browsing through multiple web pages.
+It offers 24/7 automated support, which reduces the workload of the college helpdesk and admission team.
+Responses are generated using predefined templates to maintain clarity and prevent incorrect answers.
+
+The chatbot is simple to access through the conversation window on the BIT website.
+Since BITRA is rule-based, it does not generate new answers like ChatGPT; it only replies using its stored knowledge.
+Because of this, it has some limitations — it cannot understand complicated or unusual questions.
+
+Overall, BITRA improves communication on the BIT website by giving fast, reliable, and automated responses to common student and visitor queries.
