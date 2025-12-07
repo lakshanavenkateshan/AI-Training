@@ -1,0 +1,38 @@
+Polynomial Regression is used when the relationship between input x and output y is curved, not a straight line.
+
+The general equation is:
+y = b0 + b1*x + b2*x^2 + b3*x^3 + ... + bn*x^n
+
+Even though the curve is non-linear, it is still called linear regression because the model is linear in terms of its coefficients (b0, b1, b2...).
+
+Polynomial Regression is useful when data shows patterns like:
+
+🔹U-shape
+🔹hill shape
+🔹waves
+🔹curves instead of straight trends
+
+The method works by adding extra feature columns such as:
+x^2, x^3, x^4, ...
+
+This helps the model capture bending and curving patterns.
+
+Model behaviour:
+
+🔹If degree is too low → model is too simple → underfitting
+🔹If degree is too high → model memorizes noise → overfitting
+
+Where it is commonly used:
+
+🔹Price prediction
+🔹Growth curves
+🔹Physics experiments
+🔹Performance curves
+🔹Weather/temperature patterns
+
+Visualization:
+
+🔹Linear regression → straight line
+🔹Polynomial regression → smooth bending curve
+The model uses the least squares method to find the best coefficients.
+Each coefficient tells how much that power of x (x, x^2, x^3...) affects the output y.
